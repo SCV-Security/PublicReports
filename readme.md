@@ -2,6 +2,8 @@
 
 Below is the comprehensive list of *publicly available* reports from SCV-Security. This list is generated automatically to facilitate the lookup of reports.
 
+- [White Whale - Core Pool Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/bd1d0ca42527d51d87ccdad08776f6e72c70c9e3/CW%2FWhiteWhale%2FWhite%20Whale%20-%20Core%20Pool%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 12/Apr/2023
+
 - [Cavern Protocol - Core Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/9b7140d31ca90b6d037400f5403bd78ca0a89dab/CW%2FCavern%20Protocol%2FCavern%20Protocol%20-%20Core%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 04/Apr/2023
 
 - [Eris Protocol - Tokenfactory Contract - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/c8219131255e82b0ca033881b6e6eb0569822e6e/CW%2FErisProtocol%2FEris%20Protocol%20-%20Tokenfactory%20Contract%20-%20Audit%20Report%20v1.0.pdf) - 28/Mar/2023
@@ -82,5 +84,5 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 - [Kujira - Orca Queue - Audit Report 1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/4dc8ac66bfe6312899b317ba5abbb473debf313f/CW%2FKujira%2FOrcaQueue%2FKujira%20-%20Orca%20Queue%20-%20Audit%20Report%201.0.pdf) - 11/Mar/2022
 
-## License
- This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+## License 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
