@@ -2,7 +2,7 @@
 
 Below is the comprehensive list of *publicly available* reports from SCV-Security. This list is generated automatically to facilitate the lookup of reports.
 
-- [White Whale - Core Pool Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/bd1d0ca42527d51d87ccdad08776f6e72c70c9e3/CW%2FWhiteWhale%2FWhite%20Whale%20-%20Core%20Pool%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 12/Apr/2023
+- [White Whale - Core Pool Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/a7b54a3a5090f840b326f9f786595af94c90febf/CW%2FWhiteWhale%2FWhite%20Whale%20-%20Core%20Pool%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 12/Apr/2023
 
 - [Cavern Protocol - Core Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/9b7140d31ca90b6d037400f5403bd78ca0a89dab/CW%2FCavern%20Protocol%2FCavern%20Protocol%20-%20Core%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 04/Apr/2023
 
