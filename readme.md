@@ -2,6 +2,8 @@
 
 Below is the comprehensive list of *publicly available* reports from SCV-Security. This list is generated automatically to facilitate the lookup of reports.
 
+- [Mito Finance - Staking Contract - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/b95a3e2b5e2cabbd0e9c9f126581baed999704d4/CW%2FMito%20Finance%2FMito%20Finance%20-%20Staking%20Contract%20-%20Audit%20Report%20v1.0.pdf) - 13/Jul/2023
+
 - [TFM - Router IBC - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/6266d3789b143447f9157627bcf5a48a7c4d06ed/CW%2FTerraFormer%2FTFM%20-%20Router%20IBC%20-%20Audit%20Report%20v1.0.pdf) - 07/Jul/2023
 
 - [Talis Protocol - Candy Machine - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/73fa8b8a43a2ea581159b1959016f008339bd670/CW%2FTalis%2FTalis%20Protocol%20-%20Candy%20Machine%20-%20Audit%20Report%20v1.0.pdf) - 04/Jul/2023
