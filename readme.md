@@ -2,6 +2,8 @@
 
 Below is the comprehensive list of *publicly available* reports from SCV-Security. This list is generated automatically to facilitate the lookup of reports.
 
+- [Apollo DAO - Neuton Vault - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/f78775b2d7c6ce0f554da780e6fbce0b96ebb8d5/CW%2FApolloDAO%2FApollo%20DAO%20-%20Neuton%20Vault%20-%20Audit%20Report%20v1.0.pdf) - 04/Sep/2023
+
 - [TerraForm Labs - Warp Contracts - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/9b7fe31e4302ac4e3b1e53067d4e6fa397aa6c05/CW%2FWarp%2FTerraForm%20Labs%20-%20Warp%20Contracts%20-%20Audit%20Report%20v1.0.pdf) - 14/Aug/2023
 
 - [Mito Finance - Staking Contract - Audit Report v1.0.pdf](https://github.com/SCV-Security/PublicReports/blob/2a943cafa64a211921aecedafc397677c69b0705/CW%2FMito%20Finance%2FMito%20Finance%20-%20Staking%20Contract%20-%20Audit%20Report%20v1.0.pdf) - 13/Jul/2023
