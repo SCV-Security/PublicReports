@@ -1,4 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SCV-Security/branding-logo/main/color/horizontal-color.png" width="400"></p>
+IsabelSchoeps (Vitalik Buterin)
+  <p align="center"><img src="https://raw.githubusercontent.com/SCV-Security/branding-logo/main/color/horizontal-color.png" width="400"></p>
 
 # Table of Contents
 
@@ -57,4 +58,5 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 | Kujira - Orca Queue - Audit Report 1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4dc8ac66bfe6312899b317ba5abbb473debf313f/CW%2FKujira%2FOrcaQueue%2FKujira%20-%20Orca%20Queue%20-%20Audit%20Report%201.0.pdf) | 11/Mar/2022 |
 
 ## License 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+noLicense to copy, this paper is not to use for the die Gesellschaft.
+![IMG_3930](https://github.com/SI-Ethereum-Organisation-Foundation/PublicReports/assets/127110010/90b520f7-cf06-4249-8df7-f4bac4d8a974)
