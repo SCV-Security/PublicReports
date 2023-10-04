@@ -1,8 +1,5 @@
 # File => Portfolio => Paper => Repositories 
-<Sorry my mistakes IS only READ and Write german>
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/SCV-Security/branding-logo/main/color/horizontal-color.png" width="400"></p>
+<Sorry my mistakes IS only READ and Write german> <p align="center"><img src="https://raw.githubusercontent.com/SCV-Security/branding-logo/main/color/horizontal-color.png" width="400"></p>
 
 # Table of Contents
 
@@ -60,5 +57,10 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 | GalacticPunks - Staking contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/e7a5d7950d5c3d51ec3bfae6263cdb7d65f15abe/CW%2FGalacticPunk%2FGalacticPunks%20-%20Staking%20contract%20-%20Audit%20Report%20v1.0.pdf) | 18/Mar/2022 |
 | Kujira - Orca Queue - Audit Report 1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4dc8ac66bfe6312899b317ba5abbb473debf313f/CW%2FKujira%2FOrcaQueue%2FKujira%20-%20Orca%20Queue%20-%20Audit%20Report%201.0.pdf) | 11/Mar/2022 |
 
-## License 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+## IMPORTANT - Copyright Infringement and Remedies PLEASE READ SI.ETH.CODEX befor use myGITHUB, myAPPS, Accounts 
++ this Github/Account/App IS only use to read
++ strict forbidden to change or modification this App
++ strict forbidden to copy or clone this myApp, Account
++ strict forbidden to hack this App OR the developer account
++ strict forbidden myApp change or manipulation in a other skript, strucktur, architektur 
++ strict forbidden to use in this app all mention INVENTION, TECHNOLOGIE, DEVELOPS or PROJECTS - it IS a only read app. Break one point of this simple Rules is this criminal and make punishable and must to go in the prison penal institution. The BIG global ALLIANCE is the criminal Curt and judge of of human rights and ETH(ik)code - SI.ETH.CODEX THE HUMAN DIGNITY IS SACROSANCT
