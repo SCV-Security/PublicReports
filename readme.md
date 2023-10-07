@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| TerraForm Labs - Enterprise DAO - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/90b30a6f4bf75a6f1c432cdbef68834ffa8bdd50/Enterprise%20DAO%2FTerraForm%20Labs%20-%20Enterprise%20DAO%20-%20Audit%20Report%20v1.0.pdf) | 06/Oct/2023 |
 | Leap - Leap Wallet Extension - Audit Summary Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/2410684a17f6682313526811ff67d442251ad771/Leap%20Wallet%2FLeap%20-%20Leap%20Wallet%20Extension%20-%20Audit%20Summary%20Report%20v1.0.pdf) | 18/Sep/2023 |
 | Apollo DAO - Neuton Vault - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/f78775b2d7c6ce0f554da780e6fbce0b96ebb8d5/CW%2FApolloDAO%2FApollo%20DAO%20-%20Neuton%20Vault%20-%20Audit%20Report%20v1.0.pdf) | 04/Sep/2023 |
 | TerraForm Labs - Warp Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/9b7fe31e4302ac4e3b1e53067d4e6fa397aa6c05/CW%2FWarp%2FTerraForm%20Labs%20-%20Warp%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 14/Aug/2023 |
