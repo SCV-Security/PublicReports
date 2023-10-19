@@ -6,7 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
-| TerraForm Labs - Community Pool Vesting Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d86427031ac578562cc11d4a23d726e2fa2adda8/Terra%2FTerraForm%20Labs%20-%20Community%20Pool%20Vesting%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 18/Oct/2023 |
+| TerraForm Labs - Community Pool Vesting Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/16aff37e44bc6ba5727a9ae40ee01e9989660c9a/Terra%2FTerraForm%20Labs%20-%20Community%20Pool%20Vesting%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 19/Oct/2023 |
 | TerraForm Labs - Enterprise DAO - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/90b30a6f4bf75a6f1c432cdbef68834ffa8bdd50/Enterprise%20DAO%2FTerraForm%20Labs%20-%20Enterprise%20DAO%20-%20Audit%20Report%20v1.0.pdf) | 06/Oct/2023 |
 | Leap - Leap Wallet Extension - Audit Summary Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/2410684a17f6682313526811ff67d442251ad771/Leap%20Wallet%2FLeap%20-%20Leap%20Wallet%20Extension%20-%20Audit%20Summary%20Report%20v1.0.pdf) | 18/Sep/2023 |
 | Apollo DAO - Neuton Vault - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/f78775b2d7c6ce0f554da780e6fbce0b96ebb8d5/CW%2FApolloDAO%2FApollo%20DAO%20-%20Neuton%20Vault%20-%20Audit%20Report%20v1.0.pdf) | 04/Sep/2023 |
