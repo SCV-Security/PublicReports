@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Ninja Blaze - Jackpot Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/ef4c07404d9de70171271b7938780cd5debf4a26/Ninja%20Blaze%2FNinja%20Blaze%20-%20Jackpot%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 27/Dec/2023 |
 | TerraForm Labs - Alliance NFT Collection - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4f98bbf699c75f1fa6834de22e39e603146e98d9/Alliance%2FTerraForm%20Labs%20-%20Alliance%20NFT%20Collection%20-%20Audit%20Report%20v1.0.pdf) | 19/Dec/2023 |
 | Capapult Finance - Oracle Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/fa51bf944593bf18d128b4f812b3150b218f0d25/Capapult%2FCapapult%20Finance%20-%20Oracle%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 07/Dec/2023 |
 | Neutron - Airdrop Transfer - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/9173a5971a4a81b94a82fcd35ab893da99c2202e/Neutron%2FNeutron%20-%20Airdrop%20Transfer%20-%20Audit%20Report%20v1.0.pdf) | 22/Nov/2023 |
