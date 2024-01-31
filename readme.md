@@ -6,7 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
-| Dojo Trading - DojoSwap  - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/5470961d81622f300f3e36aa47a022507a1c53fe/DojoSwap%2FDojo%20Trading%20-%20DojoSwap%20%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2024 |
+| Dojo Trading - DojoSwap Factory Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/e9c5d89d053634c08f61679aac088853ae8a0941/DojoSwap%2FDojo%20Trading%20-%20DojoSwap%20Factory%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2024 |
 | Dojo Trading - DojoSwap Launchpad Contract  - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/5470961d81622f300f3e36aa47a022507a1c53fe/DojoSwap%2FDojo%20Trading%20-%20DojoSwap%20Launchpad%20Contract%20%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2024 |
 | Ninja Blaze - Jackpot Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/ef4c07404d9de70171271b7938780cd5debf4a26/Ninja%20Blaze%2FNinja%20Blaze%20-%20Jackpot%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 27/Dec/2023 |
 | TerraForm Labs - Alliance NFT Collection - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4f98bbf699c75f1fa6834de22e39e603146e98d9/Alliance%2FTerraForm%20Labs%20-%20Alliance%20NFT%20Collection%20-%20Audit%20Report%20v1.0.pdf) | 19/Dec/2023 |
