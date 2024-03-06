@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| xNinja Lab - cw-controller - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/be9c8912800b39c2de681f58ccf42466d451e269/xNinja%20Lab%2FxNinja%20Lab%20-%20cw-controller%20-%20Audit%20Report%20v1.0.pdf) | 06/Mar/2024 |
 | Ark Protocol - ICS721 - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/45d300cca376c49f0a2607b52e6ee2622917e1f8/Ark%20Protocol%2FArk%20Protocol%20-%20ICS721%20-%20Audit%20Report%20v1.0.pdf) | 26/Feb/2024 |
 | Dojo Trading - Reflection and Treasury Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/9615af4f2b3a90cabc3c4742a38de27f4d8f6178/DojoSwap%2FDojo%20Trading%20-%20Reflection%20and%20Treasury%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 23/Feb/2024 |
 | Dojo Trading - DojoSwap Factory Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/5e26c334a81e075359c7e7041046a13fc26f985b/DojoSwap%2FDojo%20Trading%20-%20DojoSwap%20Factory%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2024 |
