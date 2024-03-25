@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Talis Protocol - Staking Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/096367b71bed1804cb05e1bf4441dfc6700b5e5c/Talis%2FTalis%20Protocol%20-%20Staking%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 25/Mar/2024 |
 | CCTP Money - CCTP Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d1902428411ec517710bf2f95dafd5dcbdd57ca4/CCTP%20Money%2FCCTP%20Money%20-%20CCTP%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 09/Mar/2024 |
 | Mito Finance - Mito Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/9fb984896b44bc8518f77a4aa94cdb9186b94743/Mito%20Finance%2FMito%20Finance%20-%20Mito%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 08/Mar/2024 |
 | xNinja Lab - cw-controller - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/be9c8912800b39c2de681f58ccf42466d451e269/xNinja%20Lab%2FxNinja%20Lab%20-%20cw-controller%20-%20Audit%20Report%20v1.0.pdf) | 06/Mar/2024 |
