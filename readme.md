@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Exotic Holding - Exotic Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/c57064cde3a79f26e32759334b6bc3efa97a421a/Exotic%20Holding%2FExotic%20Holding%20-%20Exotic%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 28/Mar/2024 |
 | Lion DAO - Savanna Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/c507cc2c2e864bef5e3804da559aa5cc9744921c/Lion%20DAO%2FLion%20DAO%20-%20Savanna%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 27/Mar/2024 |
 | Talis Protocol - Staking Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/096367b71bed1804cb05e1bf4441dfc6700b5e5c/Talis%2FTalis%20Protocol%20-%20Staking%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 25/Mar/2024 |
 | CCTP Money - CCTP Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d1902428411ec517710bf2f95dafd5dcbdd57ca4/CCTP%20Money%2FCCTP%20Money%20-%20CCTP%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 09/Mar/2024 |
