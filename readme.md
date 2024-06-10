@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Dojo Trading - susdi Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/c5ec979096e367c8d4637552f971f2f680856387/DojoSwap%2FDojo%20Trading%20-%20susdi%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 10/Jun/2024 |
 | Alliance DAO - NFT Collection Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/b819ec669f81e603caca261931e2a4aaca1cddf7/Alliance%2FAlliance%20DAO%20-%20NFT%20Collection%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 14/May/2024 |
 | TerraForm Labs - Inscription Bridge - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/b6c25605ea4566bab329ab9066801e35553cf5e7/Terra%2FTerraForm%20Labs%20-%20Inscription%20Bridge%20-%20Audit%20Report%20v1.0.pdf) | 11/Apr/2024 |
 | Exotic Holding - Exotic Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/c57064cde3a79f26e32759334b6bc3efa97a421a/Exotic%20Holding%2FExotic%20Holding%20-%20Exotic%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 28/Mar/2024 |
