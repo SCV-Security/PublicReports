@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Eris Protocol - Pheonix Treasury Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/670859b4f4fe0d113568a058db0241b9f20fb61b/Eris%20Protocol%2FEris%20Protocol%20-%20Pheonix%20Treasury%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 26/Sep/2024 |
 | ERIS - Contracts ve3 - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf) | 07/Aug/2024 |
 | Dojo Trading - Injera Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4fc823c4ad861ac2e3210aa19bd53d40b37f4de8/Injera%2FDojo%20Trading%20-%20Injera%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 16/Jul/2024 |
 | BackBone Labs - Necropolis Contracts - Audit Report 1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/c52bbaa7ed4ca246939a2e9ff60860513765a210/BackBone%20Labs%2FBackBone%20Labs%20-%20Necropolis%20Contracts%20-%20Audit%20Report%201.0.pdf) | 27/Jun/2024 |
