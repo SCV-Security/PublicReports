@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Zignaly - Zigchain - Cosmos SDK - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/f3b2fa95a3483e8296dcfa81787478c778ba29f5/Zignaly%2FZignaly%20-%20Zigchain%20-%20Cosmos%20SDK%20-%20Audit%20Report%20v1.0.pdf) | 30/Jan/2025 |
 | PFC Team - Auction Pool Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/48bae10e3c0f95b5389bcf7158bd2a6e4b98aaa3/Injective%20Labs%2FPFC%20Team%20-%20Auction%20Pool%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 09/Oct/2024 |
 | Eris Protocol - Pheonix Treasury Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/670859b4f4fe0d113568a058db0241b9f20fb61b/Eris%20Protocol%2FEris%20Protocol%20-%20Pheonix%20Treasury%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 26/Sep/2024 |
 | ERIS - Contracts ve3 - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf) | 07/Aug/2024 |
