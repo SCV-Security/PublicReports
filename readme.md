@@ -6,6 +6,8 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Hydro Finance - Hydro Protocol - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/97d7d8aa97c6412717d5d074a659bb7cec0221f4/Hydro%20Protocol%2FHydro%20Finance%20-%20Hydro%20Protocol%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2025 |
+| Hydro Protocol - Loop Staking Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/97d7d8aa97c6412717d5d074a659bb7cec0221f4/Hydro%20Protocol%2FHydro%20Protocol%20-%20Loop%20Staking%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2025 |
 | Zignaly - Zigchain - Cosmos SDK - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/f3b2fa95a3483e8296dcfa81787478c778ba29f5/Zignaly%2FZignaly%20-%20Zigchain%20-%20Cosmos%20SDK%20-%20Audit%20Report%20v1.0.pdf) | 30/Jan/2025 |
 | PFC Team - Auction Pool Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/48bae10e3c0f95b5389bcf7158bd2a6e4b98aaa3/Injective%20Labs%2FPFC%20Team%20-%20Auction%20Pool%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 09/Oct/2024 |
 | Eris Protocol - Pheonix Treasury Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/670859b4f4fe0d113568a058db0241b9f20fb61b/Eris%20Protocol%2FEris%20Protocol%20-%20Pheonix%20Treasury%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 26/Sep/2024 |
