@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Vendetta Markets - Fixed Odds Market - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/0e4ba06d2c21788c3511d5ac33919be05ab2595e/Vendetta%20Labs%2FVendetta%20Markets%20-%20Fixed%20Odds%20Market%20-%20Audit%20Report%20v1.0.pdf) | 04/Feb/2025 |
 | Hydro Finance - Hydro Protocol - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/97d7d8aa97c6412717d5d074a659bb7cec0221f4/Hydro%20Protocol%2FHydro%20Finance%20-%20Hydro%20Protocol%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2025 |
 | Hydro Protocol - Loop Staking Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/97d7d8aa97c6412717d5d074a659bb7cec0221f4/Hydro%20Protocol%2FHydro%20Protocol%20-%20Loop%20Staking%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2025 |
 | Zignaly - Zigchain - Cosmos SDK - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/f3b2fa95a3483e8296dcfa81787478c778ba29f5/Zignaly%2FZignaly%20-%20Zigchain%20-%20Cosmos%20SDK%20-%20Audit%20Report%20v1.0.pdf) | 30/Jan/2025 |
