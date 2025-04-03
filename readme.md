@@ -6,7 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
-| BlockX - BlockX-Spin - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/12711939182795dea13e6d0fcff48b37fbe0ef00/BlockX%2FBlockX%20-%20BlockX-Spin%20-%20Audit%20Report%20v1.0.pdf) | 25/Mar/2025 |
+| BlockX - BlockX-Spin - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/bc69fc065cbd4aeff7798b1e8d000da30750d0a4/BlockX%2FBlockX%20-%20BlockX-Spin%20-%20Audit%20Report%20v1.0.pdf) | 03/Apr/2025 |
 | XionMarkets - Markets Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/b714fcbb566bb0041fd645c8c7ae5028e2e0cc50/XionMarkets%2FXionMarkets%20-%20Markets%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 05/Mar/2025 |
 | Vendetta Markets - Fixed Odds Market - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/0e4ba06d2c21788c3511d5ac33919be05ab2595e/Vendetta%20Labs%2FVendetta%20Markets%20-%20Fixed%20Odds%20Market%20-%20Audit%20Report%20v1.0.pdf) | 04/Feb/2025 |
 | Hydro Finance - Hydro Protocol - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/97d7d8aa97c6412717d5d074a659bb7cec0221f4/Hydro%20Protocol%2FHydro%20Finance%20-%20Hydro%20Protocol%20-%20Audit%20Report%20v1.0.pdf) | 31/Jan/2025 |
