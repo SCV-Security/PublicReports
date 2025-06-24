@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Phoenix Directive - Terra Core Cosmos-SDK - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d190e5ec4fe8f2fa2ff40156b9363de94ea21987/Phoenix%20Directive%2FPhoenix%20Directive%20-%20Terra%20Core%20Cosmos-SDK%20-%20Audit%20Report%20v1.0.pdf) | 24/Jun/2025 |
 | A10 Capital - Streaming Protocol Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d93c93ddfb3298b9edd20e676fb72ca02bcbae80/A10%20Capital%2FA10%20Capital%20-%20Streaming%20Protocol%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 30/Apr/2025 |
 | Choice Exchange - Choice Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/4958c514f231aa297c9d4b9fe3eae758b390b634/Choice%20Exchange%2FChoice%20Exchange%20-%20Choice%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 29/Apr/2025 |
 | BlockX - BlockX-Spin - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/bc69fc065cbd4aeff7798b1e8d000da30750d0a4/BlockX%2FBlockX%20-%20BlockX-Spin%20-%20Audit%20Report%20v1.0.pdf) | 03/Apr/2025 |
