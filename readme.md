@@ -6,6 +6,7 @@ Below is the comprehensive list of *publicly available* reports from SCV-Securit
 
 | Report Name | PDF Link | Release Date |
 | ------ | --- | ---- |
+| Burnt Labs - Marketplace and Asset Contracts - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/7acbba6ce14d6b96b2a7902eb5cfd3a9262b77bc/Burnt%20Labs%2FBurnt%20Labs%20-%20Marketplace%20and%20Asset%20Contracts%20-%20Audit%20Report%20v1.0.pdf) | 10/Feb/2026 |
 | Burnt Labs - Treasury Contract - Audit Report - v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/51a8492b8baa96cd117d333a1a854980fd5df109/Burnt%20Labs%2FBurnt%20Labs%20-%20Treasury%20Contract%20-%20Audit%20Report%20-%20v1.0.pdf) | 19/Aug/2025 |
 | Phoenix Directive - Terra Core Cosmos-SDK - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d190e5ec4fe8f2fa2ff40156b9363de94ea21987/Phoenix%20Directive%2FPhoenix%20Directive%20-%20Terra%20Core%20Cosmos-SDK%20-%20Audit%20Report%20v1.0.pdf) | 24/Jun/2025 |
 | A10 Capital - Streaming Protocol Contract - Audit Report v1.0.pdf | [PDF](https://github.com/SCV-Security/PublicReports/blob/d93c93ddfb3298b9edd20e676fb72ca02bcbae80/A10%20Capital%2FA10%20Capital%20-%20Streaming%20Protocol%20Contract%20-%20Audit%20Report%20v1.0.pdf) | 30/Apr/2025 |
